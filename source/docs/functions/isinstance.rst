@@ -62,3 +62,4 @@ False
 See Also
 ========
 #TODO
+[Basestring, str, unicode explanation](https://stackoverflow.com/a/1979107/2881205)
